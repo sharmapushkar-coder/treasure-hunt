@@ -1,0 +1,54 @@
+html, body {
+  color: black;
+  cursor: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrSh_xQkU293MytOfgn4Iy5FlqXBms9iys5A&usqp=CAU');
+  margin: 0;
+  padding: 0;
+}
+.banner{
+  box-align:center;
+  width:100%;
+  position: fixed;
+  color:aquamarine;
+  opacity: 1;
+}
+canvas {
+  display: block;
+}
+.l{
+  background-color: orange;
+  opacity: 0.5;
+color:white;
+}
+.l:hover{
+  background-color: red;
+  color:white;
+  opacity: 1;
+}
+.k{
+  background-color: white;
+  opacity: 0.5;
+color:black;
+}
+.k:hover{
+  background-color: black;
+  color:white;
+  opacity: 1;
+}
+.p{
+  background-color: red;
+  color:white;
+  opacity: 0.5;
+}
+.p:hover{
+  background-color: orange;
+  color:white;
+  opacity: 1;
+}
+
+
+
+input{
+  width:320px;
+  height:30px;
+  border-style:none;
+}
